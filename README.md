@@ -33,6 +33,10 @@ Soy un estudiante del grado de Desarrollo de Aplicaciones Multiplataforma. Soy u
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
 
 </span>
+<h2>Mis estadísticas:</h2> 
 
+[![](https://github-readme-stats.vercel.app/api?username=marlondam&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/marlondam)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=marlondam&theme=material-palenight)](https://github.com/marlondam)
+</div>
 
 

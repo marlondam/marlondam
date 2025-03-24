@@ -4,7 +4,7 @@
 Soy un estudiante del grado de Desarrollo de Aplicaciones Multiplataforma. Soy un desarrollador de programación en España
 - Busco ampliar mis conocimientos en el sector y alcanzar los resultados deseados.
 - Tengo gran interés en conocer en profundidad nuevos lenguajes.
-- En mi tiempo libre, busco desarrollar mis aptitudes como programador para poder contribuir en proyectos de código abierto.
+- En mi tiempo libre, busco desarrollar mis aptitudes como programador.
 
 
 ## Habilidades
